@@ -9,7 +9,7 @@ class Main{
 
         MergeSort<Fraction> manager3 = new MergeSort<Fraction>();
         GnomeSort<Fraction> manager4 = new GnomeSort<Fraction>();
-        //RadixSort<Fraction> manager5 = new RadixSort<Fraction>();
+        RadixSort<Fraction> manager5 = new RadixSort<Fraction>();
         BufferedReader rd = new BufferedReader(new InputStreamReader(System.in));
 
         System.out.println("Presiona cualquier tecla para continuar");
@@ -25,7 +25,7 @@ class Main{
             manager2.sort(arr);
             manager3.sort(arr);
             manager4.sort(arr);
-            //manager5.sort(arr);
+            manager5.sort(arr);
         }
         System.out.println("Termino programa");
     }
