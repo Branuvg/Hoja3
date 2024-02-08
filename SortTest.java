@@ -1,3 +1,10 @@
+/** Algoritmos y Estructuras de datos -  seccion 30
+ * Luis Francisco Padilla Juárez - 23663
+ * Gabrein Bran Bolaños - 23590
+ * HT3, Sorts
+ * 07-02-2024
+ */
+
 import org.junit.Test;
 import static org.junit.Assert.assertArrayEquals;
 

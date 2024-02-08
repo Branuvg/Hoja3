@@ -1,3 +1,12 @@
+/** Algoritmos y Estructuras de datos -  seccion 30
+ * Luis Francisco Padilla Juárez - 23663
+ * Gabrein Bran Bolaños - 23590
+ * HT3, Sorts
+ * 07-02-2024
+ * @return Main
+ */
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

@@ -1,3 +1,11 @@
+/** Algoritmos y Estructuras de datos -  seccion 30
+ * Luis Francisco Padilla Juárez - 23663
+ * Gabrein Bran Bolaños - 23590
+ * HT3, Sorts
+ * 07-02-2024
+ * @return GnomeSort
+ */
+
 public class GnomeSort  <T extends Comparable<T>> {
 
     public void sort(T arr[]){
